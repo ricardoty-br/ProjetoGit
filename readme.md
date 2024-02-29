@@ -1,0 +1,1 @@
+esse projeto é um teste de funcionalidades do git
